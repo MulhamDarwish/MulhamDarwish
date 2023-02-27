@@ -3,7 +3,7 @@
 Hi 👋 My name is Mulham Darwish
 =============================
 
-Architect/Programmer
+Architect/Developer
 -------------
 
 An experienced architect with a Master's degree in Architecture and a passion for programming, seeking a challenging role that allows me to blend my design and technical skills.
