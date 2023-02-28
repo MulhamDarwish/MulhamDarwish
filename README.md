@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="100%">
 
-Hi 👋 My name is Mulham Darwish
+Hi 👋 My name is Mulham 
 =============================
 
 Architect/Developer
