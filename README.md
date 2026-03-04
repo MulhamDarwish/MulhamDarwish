@@ -9,9 +9,7 @@ Architect/Developer
 An experienced architect with a Master's degree in Architecture and a passion for programming, seeking a challenging role that allows me to blend my design and technical skills.
 * 🌍  I'm based in Romania
 * ✉️  You can contact me at [darwish.mulham@outlook.com](darwish.mulham@outlook.com)
-* 🧠  I'm learning C++ and Unreal Engine
-* 🤝  I'm open to collaborating on Website Development
-* ⚡  I love Video games and Music
+* 🧠  I'm learning Bulding Ai agents.
 
 ### Skills
 
